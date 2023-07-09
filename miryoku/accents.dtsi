@@ -26,7 +26,6 @@
                 , <&macro_release &kp MOD_KEY> \
                 , <&macro_press &kp LSHFT> \
                 , <&macro_tap &kp KEY> \
-                , <&macro_release &kp LSHFT> \
                 ; \
         }; \
         ac_##NAME: ac_##NAME { \
