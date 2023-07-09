@@ -39,17 +39,17 @@
         };
 
     accents {
-        ACCENTED_KEY(agrv, "à", "À", "àÀ", A, GRAVE, LALT)
-        ACCENTED_KEY(aacu, "á", "Á", "áÁ", A, SINGLE_QUOTE, LALT)
-        ACCENTED_KEY(atil, "ã", "Ã", "ãÃ", A, N, LALT)
-        ACCENTED_KEY(acir, "â", "Â", "âÂ", A, I, LALT)
-        ACCENTED_KEY(eacu, "é", "É", "éÉ", E, SINGLE_QUOTE, LALT)
-        ACCENTED_KEY(ecir, "ê", "Ê", "êÊ", E, I, LALT)
-        ACCENTED_KEY(iacu, "ì", "Ì", "ìÌ", I, GRAVE, LALT)
-        ACCENTED_KEY(oacu, "ó", "Ó", "óÓ", O, SINGLE_QUOTE, LALT)
-        ACCENTED_KEY(otil, "õ", "Õ", "õÕ", O, N, LALT)
-        ACCENTED_KEY(ocir, "ô", "Ô", "ôÔ", O, I, LALT)
-        ACCENTED_KEY(uacu, "ú", "Ú", "úÚ", U, SINGLE_QUOTE, LALT)
+        ACCENTED_KEY(agrv, "à", "À", "àÀ", A, GRAVE, RALT)
+        ACCENTED_KEY(aacu, "á", "Á", "áÁ", A, SINGLE_QUOTE, RALT)
+        ACCENTED_KEY(atil, "ã", "Ã", "ãÃ", A, N, RALT)
+        ACCENTED_KEY(acir, "â", "Â", "âÂ", A, I, RALT)
+        ACCENTED_KEY(eacu, "é", "É", "éÉ", E, SINGLE_QUOTE, RALT)
+        ACCENTED_KEY(ecir, "ê", "Ê", "êÊ", E, I, RALT)
+        ACCENTED_KEY(iacu, "ì", "Ì", "ìÌ", I, GRAVE, RALT)
+        ACCENTED_KEY(oacu, "ó", "Ó", "óÓ", O, SINGLE_QUOTE, RALT)
+        ACCENTED_KEY(otil, "õ", "Õ", "õÕ", O, N, RALT)
+        ACCENTED_KEY(ocir, "ô", "Ô", "ôÔ", O, I, RALT)
+        ACCENTED_KEY(uacu, "ú", "Ú", "úÚ", U, SINGLE_QUOTE, RALT)
 
         ac_ccdi: ac_ccdi {
             wait-ms = <0>;
