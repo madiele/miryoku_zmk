@@ -43,7 +43,7 @@
         ACCENTED_KEY(atil, "ã", "Ã", "ãÃ", A, N, RALT)
         ACCENTED_KEY(acir, "â", "Â", "âÂ", A, I, RALT)
         ACCENTED_KEY(eacu, "é", "É", "éÉ", E, SINGLE_QUOTE, RALT)
-        ACCENTED_KEY(ecir, "ê", "Ê", "êÊ", E, I, RALT)
+        ACCENTED_KEY(egrv, "è", "È", "èÈ", E, GRAVE, RALT)
         ACCENTED_KEY(iacu, "ì", "Ì", "ìÌ", I, GRAVE, RALT)
         ACCENTED_KEY(oacu, "ó", "Ó", "óÓ", O, SINGLE_QUOTE, RALT)
         ACCENTED_KEY(otil, "õ", "Õ", "õÕ", O, N, RALT)
